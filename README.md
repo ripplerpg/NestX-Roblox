@@ -9,7 +9,7 @@ Step 3: Run the installer Locate the downloaded installer file (it's called "Nes
 
 Step 4: User Account Control (UAC) prompt Windows may display a User Account Control prompt asking for permission to proceed with the installation. Click "Yes" to grant the necessary permissions.
 
-Step 5: Begin the installation The Cosmic Executor installation program will launch. Click on the "Install" or "Next" button to begin the installation process.
+Step 5: Begin the installation The NestX Executor installation program will launch. Click on the "Install" or "Next" button to begin the installation process.
 
 Step 6: Select an installation location During the installation, you will be prompted to select an installation location. By default, it will be in the "Program Files" folder, and it is recommended to leave it that way unless you have a specific reason to change it.
 
